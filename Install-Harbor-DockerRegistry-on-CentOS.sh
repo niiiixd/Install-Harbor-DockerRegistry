@@ -1,5 +1,9 @@
 #!/bin/bash
 
+    clear
+    read -p "If you Didn't read README is better to do it first, If you read it befor press any key to start the installation." a
+    echo "Start installing. This may take a while."
+    
 ######### Installing Docker on CentOS base on (https://docs.docker.com/install/linux/docker-ce/centos/) #########
 
 # Uninstall old versions of Docker
