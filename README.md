@@ -183,8 +183,6 @@ The installation should complete without errors. When it does, open a browser an
 
 * **Sadegh Khademi** - *DevOps Engineer* - [Sadegh Khademi](https://github.com/niiiixd)
 
-See also the list of [contributors](https://github.com/niiiixd/Docker-Registry-with-LetsEncrypt/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the GPL-v3 License - see the [LICENSE.md](README.md) file for details
