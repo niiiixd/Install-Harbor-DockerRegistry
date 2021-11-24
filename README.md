@@ -181,7 +181,7 @@ The installation should complete without errors. When it does, open a browser an
 
 ## Authors
 
-* **Sadegh Khademi** - *DevOps Engineer* - [Sadegh Khademi](https://github.com/niiiixd)
+* **Sadegh Khademi** - *SRE/Cloud Engineer* - Sadegh Khademi [website](https://sadeghkhademi.com) - Twitter [@niiiixd](https://twitter.com/niiiixd) - Email Address [Email](mailto:khademi.sadegh@gmail.com?subject=[GitHub]%20Install%20Harbor%20DockerRegistry)
 
 ## License
 
